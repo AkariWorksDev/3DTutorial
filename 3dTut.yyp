@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "384e52e1-1899-4837-91dd-9b886b6c3580",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
+            }
+        },
+        {
             "Key": "4f16e5d6-2d3c-419d-b0ea-e5de4fa1e6fb",
             "Value": {
                 "id": "3104a38b-8f14-4c65-b377-83691f1a0e8f",
@@ -124,6 +132,14 @@
                 "id": "8cd9bf3b-c101-4d2e-90b1-2219937739ae",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "bac13fd8-745a-462c-95ed-83519ed47b42",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
             }
         },
         {
@@ -260,6 +276,14 @@
                 "id": "b24c5053-4de3-409f-8a40-e411e6995418",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "086e9a31-c0e3-4d37-bff4-2f78708c5b6d",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
             }
         },
         {
